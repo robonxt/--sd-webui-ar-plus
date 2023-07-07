@@ -1,0 +1,5 @@
+3:2, 3/2      # Photography
+4:3, 4/3      # Television photography
+16:9, 16/9    # Television photography
+1.85:1, 1.85  # Cinematography
+2.39:1, 2.39  # Cinematography
