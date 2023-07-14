@@ -34,3 +34,15 @@ button#arsp__arc_hide_logic_button {
 	height: 22px;
 	overflow: hidden !important;
 }
+
+/* Fix for Lobe theme */
+/* https://github.com/canisminor1990/sd-webui-lobe-theme/blob/d4c4a48e8025d32b202716d4ab8d806580752256/src/styles/components/button.ts */
+.hide.svelte-1ipelgc {
+	display: none !important;
+}
+.primary.svelte-1ipelgc {
+	background: var(--button-primary-background-fill) !important;
+}
+.secondary.svelte-1ipelgc {
+	background: var(--button-secondary-background-fill) !important;
+}
