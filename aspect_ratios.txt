@@ -1,3 +1,4 @@
+1:1, 1/1      # Square
 3:2, 3/2      # Photography
 4:3, 4/3      # Television photography
 16:9, 16/9    # Television photography
