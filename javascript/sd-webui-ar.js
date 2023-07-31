@@ -9,6 +9,7 @@ arsp__ar_button_titles["\u{1f5bc}"] = "Get dimensions from image on current img2
 arsp__ar_button_titles["Calculate Height"] = "Calculate new height based on source aspect ratio";
 arsp__ar_button_titles["Calculate Width"] = "Calculate new width based on source aspect ratio";
 arsp__ar_button_titles["Apply"] = "Apply calculated width and height to txt2img/img2img sliders";
+arsp__ar_button_titles["\uD83D\uDD0D"] = "Round dimensions to the nearest multiples of 4 (1023x101 => 1024x100)";
 
 onUiUpdate(function(){
 	gradioApp().querySelectorAll('#arsp__txt2img_container_aspect_ratio button, #arsp__img2img_container_aspect_ratio button').forEach(function(elem){
